@@ -12,11 +12,11 @@ I thought I'd try the same thing, and commit 1 verse at a time.
 *This text will be italic* 
 
 ##Lists
-####Unordered 
+####Unordered list
 * Item 1
   * Item a 
 
-####Ordered 
+####Ordered list
 1. Item 1
 2. Item 2
   * Item 2a
