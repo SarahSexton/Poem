@@ -20,3 +20,5 @@ I thought I'd try the same thing, and commit 1 verse at a time.
 1. Item 1
 2. Item 2
   * Item 2a
+  * Item 2b
+  * Iten 3b
