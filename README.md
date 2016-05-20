@@ -15,6 +15,7 @@ I thought I'd try the same thing, and commit 1 verse at a time.
 ####Unordered list
 * Item 1
   * Item a 
+  * Item b
 
 ####Ordered list
 1. Item 1
